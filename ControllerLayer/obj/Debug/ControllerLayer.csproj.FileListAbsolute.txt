@@ -1,0 +1,30 @@
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\bin\Debug\ControllerLayer.exe.config
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\bin\Debug\ControllerLayer.exe
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\bin\Debug\ControllerLayer.pdb
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\bin\Debug\DataLayer.exe
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\bin\Debug\MySql.Data.dll
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\bin\Debug\DataLayer.pdb
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\bin\Debug\DataLayer.exe.config
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\bin\Debug\MySql.Data.xml
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.csprojResolveAssemblyReference.cache
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.Properties.Resources.resources
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.csproj.GenerateResource.cache
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.csproj.CoreCompileInputs.cache
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.csproj.CopyComplete
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.exe
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.pdb
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\bin\Debug\ControllerLayer.exe.config
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\bin\Debug\ControllerLayer.exe
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\bin\Debug\ControllerLayer.pdb
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\bin\Debug\DataLayer.exe
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\bin\Debug\MySql.Data.dll
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\bin\Debug\DataLayer.pdb
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\bin\Debug\DataLayer.exe.config
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\bin\Debug\MySql.Data.xml
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.csprojResolveAssemblyReference.cache
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.Properties.Resources.resources
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.csproj.GenerateResource.cache
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.csproj.CoreCompileInputs.cache
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.csproj.CopyComplete
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.exe
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\ControllerLayer\obj\Debug\ControllerLayer.pdb

@@ -1,0 +1,24 @@
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\DataLayer\bin\Debug\DataLayer.exe.config
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\DataLayer\bin\Debug\DataLayer.exe
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\DataLayer\bin\Debug\MySql.Data.dll
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\DataLayer\bin\Debug\MySql.Data.xml
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\DataLayer\obj\Debug\DataLayer.Properties.Resources.resources
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\DataLayer\obj\Debug\DataLayer.exe
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\DataLayer\bin\Debug\DataLayer.exe.config
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\DataLayer\bin\Debug\DataLayer.exe
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\DataLayer\bin\Debug\DataLayer.pdb
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\DataLayer\bin\Debug\MySql.Data.dll
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\DataLayer\bin\Debug\MySql.Data.xml
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\DataLayer\obj\Debug\DataLayer.Properties.Resources.resources
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\DataLayer\obj\Debug\DataLayer.exe
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\DataLayer\obj\Debug\DataLayer.pdb

@@ -1,0 +1,46 @@
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\bin\Debug\Hospital.NET.exe.config
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\bin\Debug\Hospital.NET.exe
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\bin\Debug\Hospital.NET.pdb
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\bin\Debug\MySql.Data.dll
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\bin\Debug\MySql.Data.xml
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.csprojResolveAssemblyReference.cache
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.Properties.Resources.resources
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.csproj.GenerateResource.cache
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.csproj.CoreCompileInputs.cache
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.csproj.CopyComplete
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.exe
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.pdb
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.AdministratiuForm.resources
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.AgregarForm.resources
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.BuscarForm.resources
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.Login.resources
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.PersonalForm.resources
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\bin\Debug\ControllerLayer.exe
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\bin\Debug\DataLayer.exe
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\bin\Debug\ControllerLayer.pdb
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\bin\Debug\ControllerLayer.exe.config
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\bin\Debug\DataLayer.pdb
+C:\Users\DanielMoralesGonzale\Desktop\Hospital.NET\Hospital.NET\bin\Debug\DataLayer.exe.config
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\bin\Debug\Hospital.NET.exe.config
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\bin\Debug\Hospital.NET.exe
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\bin\Debug\Hospital.NET.pdb
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\bin\Debug\ControllerLayer.exe
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\bin\Debug\MySql.Data.dll
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\bin\Debug\DataLayer.exe
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\bin\Debug\ControllerLayer.pdb
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\bin\Debug\ControllerLayer.exe.config
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\bin\Debug\MySql.Data.xml
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\bin\Debug\DataLayer.pdb
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\bin\Debug\DataLayer.exe.config
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.csprojResolveAssemblyReference.cache
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.AdministratiuForm.resources
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.AgregarForm.resources
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.BuscarForm.resources
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.Login.resources
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.PersonalForm.resources
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.Properties.Resources.resources
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.csproj.GenerateResource.cache
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.csproj.CoreCompileInputs.cache
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.csproj.CopyComplete
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.exe
+C:\Cosas\Ciclo\Segundo\M07 - Desemvolupament d'interficies\Hospital.NET\Hospital.NET\obj\Debug\Hospital.NET.pdb
